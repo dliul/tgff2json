@@ -17,7 +17,7 @@ The communication and processor information will be updated later.
 
 TODO:
     
-    Extend it to support for vcg.
+    Extend it to support vcg files.
     
     Use dotty to plot the task graph.
 
