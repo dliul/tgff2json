@@ -8,10 +8,14 @@ The communication and processor information will be updated later.
 
 
 TODO:
+    
     Extend it to support for vcg.
+    
     Use dotty to plot the task graph.
 
 
 Reference:
+
     Dick, R.P.; Rhodes, D.L.; Wolf, W., "TGFF: task graphs for free," Hardware/Software Codesign, 1998. (CODES/CASHE '98) Proceedings of the Sixth International Workshop on , vol., no., pp.97,101, 15-18 Mar 1998
+    
     http://ziyang.eecs.umich.edu/~dickrp/tgff/
