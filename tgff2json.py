@@ -32,7 +32,6 @@ class graph:
 
 def parse(filename, output):
     
-    print output
     g = graph()
     data = {}
     data['tasks'] = []
@@ -59,17 +58,7 @@ def parse(filename, output):
         data.update({'edge cnt':len(data['edges'])})
     r = open(output, 'w')    
     json.dump(data,r,indent=4)   
-    r.close()     
-##            print data
-##            print data
-            
-##            print sl
-##            print sl
-##    print data
-    #f = open(filename, 'r')
-    #r = open(output, 'w')
-
-    #f.readline()
+    r.close()
 
 
 def main():
